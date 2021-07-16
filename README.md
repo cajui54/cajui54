@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cajui54
 - 👀 I’m interested in code, study, jobs
 - 🌱 I’m currently learning about html, CSS & Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on script..
 - 📫 How to reach me ...
 
 <!---
