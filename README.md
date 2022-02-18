@@ -2,7 +2,6 @@
 - 👀 I’m interested in code, study, jobs
 - 🌱 I’m currently learning about html, CSS & Javascript
 - 💞️ I’m looking to collaborate on script..
-- 📫 How to reach me ...
 
 <div>
   <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" >
