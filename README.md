@@ -9,6 +9,7 @@
   <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux">
   <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
 </div>
 
 ![Jackson Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=cajui54&show_icons=true)
