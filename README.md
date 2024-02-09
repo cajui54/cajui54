@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackson
 - 👀 I’m interested in code, study, jobs
-- 🌱 I’m currently learning about html, CSS, Javascript & React.JS
+- 🌱 I’m currently learning about html, CSS, Javascript, React.JS & TypeScript.
 - 💞️ I’m looking to collaborate on script..
 
 <div>
